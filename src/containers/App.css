@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+.title-text {
+    font-family: 'indie Flower', cursive;
+    color:darkslategray;
+    font-size:50px;
+    margin:0px;
+}
+
+.subtext {
+    font-family: 'Indie Flower', cursive;
+    color:darkslategray;
+    margin:10px;
+}
+
